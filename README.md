@@ -8,7 +8,7 @@ Decidi não mexer nele adicionando melhorias ou consertando eventuais bugs, pois
 
 Embora o projeto possa ter algumas limitações e imperfeições, é uma representação das minhas habilidades naquele momento específico. Considero importante manter essas origens intactas para lembrar o quão longe cheguei desde então. Além disso,  serve para comparar futuros projetos e ver a minha evolução ao longo da jornada de aprendizado.
 
-![Projeto Starter](https://github.com/RafaaKing/Projeto-Starter/assets/138323110/1a2ecc94-9f8d-4595-b9bc-e93972afe96c)
+![Projeto Starter](https://github.com/RafaaKing/Projeto-Starter/assets/138323110/8dc3fe2f-c0c2-4141-9f04-6f3d11288671)
 
 O código-fonte deste projeto original no qual me inspirei, está disponível em https://github.com/inkasadev/frontbox-starter-files , onde você também pode utilizar como referência para seus próprios projetos.
 

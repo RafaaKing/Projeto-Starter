@@ -1,5 +1,7 @@
 Projeto Starter
 
+![Projeto Starter](https://github.com/RafaaKing/Projeto-Starter/assets/138323110/1a2ecc94-9f8d-4595-b9bc-e93972afe96c)
+
 Todo começo de um sonho tem seu ponta pé inicial, e esse projeto foi o meu primeiro. O objetivo do projeto foi de aprender Flexbox, o layout e as imagens foram gentilmente fornecidos pelo canal Inkasa Dev, que serviu como fonte de inspiração para a criação deste site.
 
 Durante o desenvolvimento, aprendi a organizar os elementos em colunas e linhas, alinhar itens no centro do contêiner e criar layouts flexíveis que se ajustam a diferentes tamanhos de tela.
